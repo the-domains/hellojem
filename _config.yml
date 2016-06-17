@@ -1,0 +1,14 @@
+layout_spectrum: 0.9659498
+color:
+  saturation: 0.9828814
+  lightness: 0.8853046
+  brandStrength: 0.5896057
+  brandColors:
+    - '#42413C'
+    - '#FDFFFF'
+    - '#A61F1C'
+    - '#FF5541'
+    - '#CFC1A6'
+  rhythmicContrast: 0.8996416
+typography_spectrum: 0.8853046
+name: HelloJem
